@@ -7,6 +7,7 @@ Collection of awesome Tamil NLP resources
   - [Ebooks](#ebooks)
   - [Verbs](#All-Tamil-Verbs)
   - [Programming-Libraries](#Programming-Libraries)
+  - [Datasets](#Datasets)
   
 ---
   
@@ -29,3 +30,8 @@ Collection of awesome Tamil NLP resources
 
 * [open-tamil](https://github.com/Ezhil-Language-Foundation/open-tamil) - Python Library to handle Tamil Text
 * [Tamil text parsing in Java](https://github.com/drajamanik/tamil) - Java class to handle Tamil Text
+
+## Datasets
+
+* [korkai](https://github.com/psankar/korkai/tree/master/FreeTamilEBooks) - Dataset of tokens from FreeTamilEbooks.com
+* [TamilNews-7M](https://www.kaggle.com/paarulakan/tamilnews-7m.zip) - Collection of tamil news articles for language modelling task
