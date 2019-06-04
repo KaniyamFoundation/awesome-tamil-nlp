@@ -3,7 +3,7 @@ Collection of awesome Tamil NLP resources
 
 
 - [Awesome Tamil NLP](#awesome-tamil-nlp)
-  - [Tamil Grammar](Tamil-Grammar)
+  - [Tamil Grammar](#Tamil-Grammar)
   - [Ebooks](#ebooks)
 
 ## Tamil-Grammar
