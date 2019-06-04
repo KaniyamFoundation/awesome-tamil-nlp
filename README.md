@@ -35,3 +35,4 @@ Collection of awesome Tamil NLP resources
 
 * [korkai](https://github.com/psankar/korkai/tree/master/FreeTamilEBooks) - Dataset of tokens from FreeTamilEbooks.com
 * [TamilNews-7M](https://www.kaggle.com/paarulakan/tamilnews-7m.zip) - Collection of tamil news articles for language modelling task
+* [Tamil-WordNet English Literal to Tamil](https://drive.google.com/file/d/1jWvNGDcTbvqqQlAJKYksvtnsrv4BH-Wd/view) - Here is Tamil-WordNet English Literal to Tamil converted data which contains 4 Lakhs words.
