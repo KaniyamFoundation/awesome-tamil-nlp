@@ -19,4 +19,4 @@ Collection of awesome Tamil NLP resources
 
 ## All-Tamil-Verbs
 
-*[Tamil Verbs](http://sudar-ilakkanam.blogspot.com/?view=classic)
+* [Tamil Verbs](http://sudar-ilakkanam.blogspot.com/?view=classic)
